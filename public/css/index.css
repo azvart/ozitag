@@ -1,0 +1,10 @@
+ul{
+    list-style: none;
+
+}
+
+.topmenu{
+    display: flex !important;
+    flex-direction: row;
+    justify-content: space-around;
+}
